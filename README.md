@@ -1,9 +1,10 @@
 # BroncoNotes
+
 A collaborative, feature-rich note-taking app designed specifically for Santa Clara University students to organize and share notes to excel in their academic journey.
 
 Key Features:
 
-- Real-time database 
+- Real-time database
 - Notion-style editor
 - Light and Dark mode
 - Infinite children documents
